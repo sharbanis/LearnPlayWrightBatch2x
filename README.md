@@ -60,6 +60,9 @@ A comprehensive JavaScript learning course covering fundamentals, concepts, adva
 - 43_Incre_Decre_Op.js - Increment and decrement operators (++, --)
 - 44_Null_Op.js - Nullish coalescing and optional chaining
 - 45_Post_Increment.js - Post-increment and pre-increment differences
+- 46_IQ_INCREMENT_D.js - Advanced increment and decrement concepts
+- 47_Advance_ID_.js - Advanced identifier and operator concepts
+- Task_Ternary operator - Practice task: Finding maximum value using ternary operator
 
 ## Getting Started
 

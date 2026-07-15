@@ -1,0 +1,16 @@
+// Maximum number between two numbers, using the ternary operator 
+let a = 9
+let b = 8
+let c = 7
+
+let max_number = a > b ? "a is greater than b" : "b is greater than a";
+console.log("Between a and b - ", max_number);
+
+// Using nested ternary operators to find maximum among three numbers
+let a = 9
+let b = 8
+let c = 7
+let max_number = a > b ? (a > c ? "a is the greatest" : "c is the greatest") : (b > c ? "b is the greatest" : "c is the greatest");
+console.log(max_number);
+
+
