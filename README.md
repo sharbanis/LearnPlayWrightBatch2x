@@ -10,6 +10,7 @@ The lessons cover:
 - Identifiers, literals, and comments
 - Operators and control flow
 - Conditional logic with if/else statements
+- Switch-statement concepts and practice
 
 ## Course Structure
 
@@ -86,6 +87,29 @@ The lessons cover:
 - 57_Task_Grade_Calc.js - Grade calculation task
 - 58_LEAP_YEAR.js - Leap year logic exercise
 
+### Chapter 8: Switch Statement
+- 59_Switch.js - Basic switch syntax
+- 60_No_Break.js - Example without break statements
+- 61_Default.js - Default case usage
+- 62_Real_Time_Example.js - Real-world switch example
+- 63_Switch_Group.js - Grouped case handling
+- 64_IQ_NoBreak.js - Practice with no-break scenarios
+- 65_IQ2.js - Additional switch questions
+- 66_IQ3_DuplicateCase.js - Duplicate case examples
+- 67_IQ4.js - More switch practice
+
+## Chapter Guides
+
+Each chapter folder now includes its own README guide:
+- [chapter_01_basics/readme.md](chapter_01_basics/readme.md)
+- [chapter_02_javascript_concepts/readme.md](chapter_02_javascript_concepts/readme.md)
+- [chapter_03_identifiers_Literals/readme.md](chapter_03_identifiers_Literals/readme.md)
+- [chapter_04_Javascript_Conepts/readme.md](chapter_04_Javascript_Conepts/readme.md)
+- [chapter_05_literals/readme.md](chapter_05_literals/readme.md)
+- [chapter_06_Operator/readme.md](chapter_06_Operator/readme.md)
+- [chapter_07_If_Elseif/readme.md](chapter_07_If_Elseif/readme.md)
+- [chapter_08_Switch_Statement/readme.md](chapter_08_Switch_Statement/readme.md)
+
 ## Getting Started
 
 1. Clone this repository.
@@ -112,7 +136,7 @@ Each file contains JavaScript code and comments explaining the concept. Follow t
 - Advanced Concepts: block scope, TDZ, and hoisting behavior
 - Literals: numbers, strings, templates, null, undefined, and special values
 - Operators: arithmetic, comparison, logical, assignment, and special operators
-- Control Flow: if, else if, else, and conditional problem-solving
+- Control Flow: if, else if, else, switch, and conditional problem-solving
 
 ## Repository
 
