@@ -11,6 +11,7 @@ The lessons cover:
 - Operators and control flow
 - Conditional logic with if/else statements
 - Switch-statement concepts and practice
+- User input handling and loops
 
 ## Course Structure
 
@@ -98,6 +99,23 @@ The lessons cover:
 - 66_IQ3_DuplicateCase.js - Duplicate case examples
 - 67_IQ4.js - More switch practice
 
+### Chapter 9: User Input
+- Files in this chapter focus on collecting input and using it in JavaScript programs.
+
+### Chapter 10: Loops
+- 71_For_loop.js - For loop basics
+- 72_For_loop.js - Additional for loop examples
+- 73_For_Loop2.js - More for loop practice
+- 74_IQ.js - Loop interview questions
+- 75_For_OF_IN_EACH.js - for...of and for...in examples
+- 76_While.js - While loop examples
+- 77_Do_While.js - Do-while loop basics
+- 78_Do_While.js - More do-while examples
+- 79_IQ.js - Additional loop practice
+- 80_IQ.js - More loop exercises
+- 81_IQ.js - Practice questions
+- 82_IQ.js - Interview-style loop practice
+
 ## Chapter Guides
 
 Each chapter folder now includes its own README guide:
@@ -109,6 +127,8 @@ Each chapter folder now includes its own README guide:
 - [chapter_06_Operator/readme.md](chapter_06_Operator/readme.md)
 - [chapter_07_If_Elseif/readme.md](chapter_07_If_Elseif/readme.md)
 - [chapter_08_Switch_Statement/readme.md](chapter_08_Switch_Statement/readme.md)
+- [chapter_09_UserInput/readme.md](chapter_09_UserInput/readme.md)
+- [chapter_10_Loops/readme.md](chapter_10_Loops/readme.md)
 
 ## Getting Started
 
@@ -137,6 +157,7 @@ Each file contains JavaScript code and comments explaining the concept. Follow t
 - Literals: numbers, strings, templates, null, undefined, and special values
 - Operators: arithmetic, comparison, logical, assignment, and special operators
 - Control Flow: if, else if, else, switch, and conditional problem-solving
+- Loops: for, while, do-while, and loop-based problem solving
 
 ## Repository
 
