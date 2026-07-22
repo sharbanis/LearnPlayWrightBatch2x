@@ -12,6 +12,7 @@ The lessons cover:
 - Conditional logic with if/else statements
 - Switch-statement concepts and practice
 - User input handling and loops
+- Arrays and array operations
 
 ## Course Structure
 
@@ -116,6 +117,17 @@ The lessons cover:
 - 81_IQ.js - Practice questions
 - 82_IQ.js - Interview-style loop practice
 
+### Chapter 11: Arrays
+- 83_Arrays.js - Array basics
+- 84_Arrays.js - More array examples
+- 85_Access_Array.js - Accessing array elements
+- 86_Arrays_Adding_Remove.js - Adding and removing items in arrays
+- 87_Adding_Remove2.js - More array add/remove examples
+- 88_REAL_Example.js - Real-world array examples
+- 89_Searching.js - Searching arrays
+- 90_Iterate.js - Iterating arrays
+- 91_Transform_Array.js - Transforming arrays
+
 ## Chapter Guides
 
 Each chapter folder now includes its own README guide:
@@ -129,6 +141,7 @@ Each chapter folder now includes its own README guide:
 - [chapter_08_Switch_Statement/readme.md](chapter_08_Switch_Statement/readme.md)
 - [chapter_09_UserInput/readme.md](chapter_09_UserInput/readme.md)
 - [chapter_10_Loops/readme.md](chapter_10_Loops/readme.md)
+- [chapter_11_Arrays/readme.md](chapter_11_Arrays/readme.md)
 
 ## Getting Started
 
@@ -158,6 +171,7 @@ Each file contains JavaScript code and comments explaining the concept. Follow t
 - Operators: arithmetic, comparison, logical, assignment, and special operators
 - Control Flow: if, else if, else, switch, and conditional problem-solving
 - Loops: for, while, do-while, and loop-based problem solving
+- Arrays: creation, access, iteration, searching, and transformation
 
 ## Repository
 
